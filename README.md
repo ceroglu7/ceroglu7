@@ -9,5 +9,4 @@
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-C13584?style=flat-quare&labelColor=C13584&logo=instagram&logoColor=white&link=https://www.instagram.com/cihaneou)](link) 
 [![Medium Badge](https://img.shields.io/badge/-Medium-757575?style=flat-quare&labelColor=757575&logo=Medium&logoColor=white&link=https://medium.com/cihan-ero%C4%9Flu-blog)](link) 
 <br>
-![Github stats 1](https://github-readme-stats.vercel.app/api?username=ceroglu7&show_icons=true&theme=gradient) 
 ![Github stats 2](https://github-readme-stats.vercel.app/api?username=ceroglu7&show_icons=true&theme=radical)
