@@ -1,16 +1,13 @@
-### Hi there 👋
+### Hi there 👋 I'm Cihan.
 
-<!--
-**ceroglu7/ceroglu7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🌱 I’m currently learning Selenium, MSSQL Server, Java, Maven, Postman 
+- 💬 Ask me about Test Automation, API Tests
+- 📫 How to reach me: ceroglu7@gmail.com
+- 💬 I regularly write articles on: www.cihaneroglu.com
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[![Instagram Badge](https://img.shields.io/badge/-Instagram-C13584?style=flat-quare&labelColor=C13584&logo=instagram&logoColor=white&link=https://www.instagram.com/cihaneou)](link) 
+[![Medium Badge](https://img.shields.io/badge/-Medium-757575?style=flat-quare&labelColor=757575&logo=Medium&logoColor=white&link=https://medium.com/cihan-ero%C4%9Flu-blog)](link) 
+<br>
+![Github stats 1](https://github-readme-stats.vercel.app/api?username=ceroglu7&show_icons=true&theme=gradient) 
+![Github stats 2](https://github-readme-stats.vercel.app/api?username=ceroglu7&show_icons=true&theme=radical)
