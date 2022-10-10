@@ -1,6 +1,6 @@
 ### Hi there 👋 I'm Cihan.
 
-- 🌱 I’m currently learning Selenium, MSSQL Server, Java, Maven, Postman 
+- 🌱 I’m currently learning Java, Selenium, MSSQL Server, Maven, Postman, C#
 - 💬 Ask me about Test Automation, API Tests
 - 📫 How to reach me: ceroglu7@gmail.com
 - 💬 I regularly write articles on: www.cihaneroglu.com
