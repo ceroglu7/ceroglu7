@@ -1,8 +1,8 @@
 <h1 align="center" style="margin-top: 0px;">:vulcan_salute:I'm Cihan</h1>
 <h1 align="center" style="margin-top: 0px;">A Junior Quality Assurance Engineer from Turkey</h1>
  
- 
-- 🌱 I’m currently learning Java, Selenium, MSSQL Server, Maven, Postman, C#
+- 🔭 I’m currently working on A101 & Patika.dev Test Automation Practicum
+- 🌱 I’m currently learning Java, Selenium, Postman, Maven, t-Sql, MSSQL Server, C#
 - 💬 Ask me about Test Automation, API Tests
 - 📫 How to reach me: <a href="mailto:ceroglu7@gmail.com" target="blank"><img align="center" src="https://github.com/afse2/afse2/blob/main/icons/mail.png" title = "mail" alt="" height="30" /></a>
 - 💬 I regularly write articles on: www.cihaneroglu.com
